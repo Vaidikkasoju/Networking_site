@@ -14,7 +14,7 @@
         
       </div>
       <div class="col-sm-6">
-          <p class="pull-right">Built with <i class="icon-heart-empty"></i> Flappy Book</p>      
+          <p class="pull-right">Developed By<i class="icon-heart-empty"></i>WE MEDIA</p>      
       </div>
     </div>
   </div>
